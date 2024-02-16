@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/vidhikataria/Documents/Projects/gluestack-ui/tv-os-ds1/logs/.ffad56c614b3818b45bbcd65b4f74f9e62ad6f98-audit.json",
+    "files": [
+        {
+            "date": 1708000565804,
+            "name": "/Users/vidhikataria/Documents/Projects/gluestack-ui/tv-os-ds1/logs/error-2024-02-15.log",
+            "hash": "b5762fdc5353c5d190d05b09d1f31325"
+        }
+    ]
+}

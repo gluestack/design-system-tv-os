@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/vidhikataria/Documents/Projects/gluestack-ui/tv-os-ds1/logs/.6cd9737f9c11c5b2bf1ff96ebb7713b7274833f3-audit.json",
+    "files": [
+        {
+            "date": 1708000565807,
+            "name": "/Users/vidhikataria/Documents/Projects/gluestack-ui/tv-os-ds1/logs/keplerCliNative-2024-02-15.log",
+            "hash": "3a76019aff314c167b5bda8c23b1d868"
+        }
+    ]
+}
